@@ -19,4 +19,4 @@ The objective of the assignment was to create a fully functional **Blackjack gam
 2. Make sure you have Python installed on your computer.  
 3. Run the program in your terminal or preferred IDE using the following command:  
    ```bash
-   python blackjack.py
+   python sj_blackjack_hw.py
