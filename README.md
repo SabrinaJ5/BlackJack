@@ -2,6 +2,7 @@
 
 ### About the Project  
 This project was a homework assignment for my **Programming 1 class** at the **University of Florida**.  
+
 The objective of the assignment was to create a fully functional **Blackjack game** in Python, implementing key programming concepts learned in the course.
 
 ---
